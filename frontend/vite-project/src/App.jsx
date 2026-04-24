@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useBoard } from "./hooks/useBoard";
-import logo from "./resources/logo.svg";
+import logo from "./resources/Logo.svg";
 import edit from "./resources/Edit_duotone.svg";
 import timmer from "./resources/Time_atack_duotone.svg";
 import addBtn from "./resources/Add_round_duotone.svg";
